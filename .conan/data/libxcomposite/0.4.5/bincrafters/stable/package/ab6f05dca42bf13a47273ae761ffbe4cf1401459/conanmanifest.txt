@@ -1,0 +1,18 @@
+1588236407
+conaninfo.txt: dc10e2a5e2b5b13df293ff644e34986b
+include/X11/extensions/Xcomposite.h: 13c104ff06dce331bc61c8ccc587b5b1
+lib/libXcomposite.a: 12297dcab3725bd79783c21f2b1fe00a
+lib/pkgconfig/xcomposite.pc: 542bcd293036746b56a5404373796411
+licenses/COPYING: 3f2907aad541f6f226fbc58cc1b3cdf1
+share/man/man3/XCompositeCreateRegionFromBorderClip.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeGetOverlayWindow.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeNameWindowPixmap.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeQueryExtension.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeQueryVersion.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeRedirectSubwindows.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeRedirectWindow.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeReleaseOverlayWindow.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeUnredirectSubwindows.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeUnredirectWindow.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/XCompositeVersion.3: b0cdf1387a5287f2804e46c965cb24b9
+share/man/man3/Xcomposite.3: fdc3d3cb250cfcefda093ad2ccccbadc

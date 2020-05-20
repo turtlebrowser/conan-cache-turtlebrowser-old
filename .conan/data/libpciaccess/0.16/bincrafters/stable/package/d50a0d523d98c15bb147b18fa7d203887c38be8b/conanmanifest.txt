@@ -1,0 +1,6 @@
+1588145504
+conaninfo.txt: be32f7ea9ceeacd3f885504d41fab857
+include/pciaccess.h: 1a4bfed27f908f7e889d53398cc66a09
+lib/libpciaccess.a: 1e81089db7b20ce56c55e25c689fd6b2
+lib/pkgconfig/pciaccess.pc: 20adede02502538fb9375be0b144f3e6
+licenses/COPYING: 277aada5222b9a22fbf3471ff3687068

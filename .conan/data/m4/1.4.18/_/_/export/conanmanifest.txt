@@ -1,0 +1,10 @@
+1584358688
+conandata.yml: f384fd920eb01d0697f5356860cf6ef4
+conanfile.py: 9ae7bf360ddf6a1d837a6d3fb17c836a
+export_source/patches/0001-fflush-adjust-to-glibc-2.28-libio.h-removal.patch: 0b612e3db3181de533b0f5a0d9dba652
+export_source/patches/0002-fflush-be-more-paranoid-about-libio.h-change.patch: 71cc3dd715fee50e2f8fb29b966f0fa9
+export_source/patches/0003-secure_snprintf.patch: 43b8381ff4f750c3726c093cdd800a9e
+export_source/patches/0004-fix-checks.patch: f21f891519ae228d3e58fc4e74b4bd45
+export_source/patches/0005-vasnprintf-Fix-for-MSVC-14.patch: b6022b38eb7b4337bbcf810f67b0da9c
+export_source/patches/0006-manywarnings-update-for-gcc-7.patch: 4e7926ef9dc3da1348998306bfa7d548
+export_source/patches/0007-vasnprintf-port-to-macos-10.13.patch: 8c4369e6912e9ab03a7e1c3a5f6466d3

@@ -1,0 +1,5 @@
+1588235174
+conaninfo.txt: 7b7e54d1d9d1dbce9aaecd56ed883984
+include/xcb/xcb_keysyms.h: b6e402523dffabcabc404b0e0cf19546
+lib/libxcb-keysyms.a: 611af74ddedda3fb90f8f22a04741cc2
+lib/pkgconfig/xcb-keysyms.pc: 11c395d3c948120ba75d0f62b4969c4f

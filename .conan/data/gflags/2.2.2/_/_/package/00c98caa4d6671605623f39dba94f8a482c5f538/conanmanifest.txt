@@ -1,0 +1,8 @@
+1573739992
+bin/gflags_completions.sh: 81a95efa51ca5325c3082c34b60d1db0
+conaninfo.txt: a2c053c9568245b8a21e5c0952ec0fee
+include/gflags/gflags.h: 83ad3df2dfbce3d4bbf66ef86d2a9987
+include/gflags/gflags_completions.h: 88998a87f0276ee15b67967cc698b5cf
+include/gflags/gflags_declare.h: ba1c6c94f10b7ff169e9e2c2e73a4adb
+lib/libgflags_nothreads.a: 240cf4712bcec3ff908859bae10eab6f
+licenses/COPYING.txt: c80d1a3b623f72bb85a4c75b556551df

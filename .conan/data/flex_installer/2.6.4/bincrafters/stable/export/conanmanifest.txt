@@ -1,0 +1,11 @@
+1576257839
+LICENSE.md: 177c3ca98365071dcc75ff0af80a4f6c
+conanfile.py: f552aec585b1eebe81e60deccadd90e2
+conanfile_base.py: 76b6292b7384cde6f593a66dc53f2d9a
+export_source/patches/0002-dont-wait-on-child-since-there-is-no-fork.patch: 9b787b6cfcbf3aaf1a6d640a174ac6d6
+export_source/patches/0003-define-htonl-htons-for_WIN32.patch: a4ebf970fa461200ee97c6d718dcbea0
+export_source/patches/0004-check-for-regex-library-for-MinGW-w64.patch: 9534c106ccca0104ff65acbd8863ac2d
+export_source/patches/0005-filter-c-hack-out-fork-and-pipe.patch: a9ab02b5ae967d0c59b3e5e25e6aec90
+export_source/patches/0006-MinGW-w64-open-in-binary-mode.patch: 4ab9bd4a20673c98acea83c245f25e51
+export_source/patches/0007-apply-changes-from-winflexbison.patch: 6b86e5bcff6eea19df1b428d278f6e9f
+export_source/patches/0008-disable-man.patch: 0a3ad753723fd4d5a743bb7a9a678fbd

@@ -1,0 +1,57 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+
+
+[options]
+    build_executable=True
+    disable_gethostuuid=False
+    enable_column_metadata=True
+    enable_explain_comments=False
+    enable_fts3=False
+    enable_fts4=False
+    enable_fts5=False
+    enable_json1=False
+    enable_rtree=True
+    enable_unlock_notify=True
+    fPIC=True
+    omit_load_extension=False
+    shared=False
+    threadsafe=1
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    build_executable=True
+    disable_gethostuuid=False
+    enable_column_metadata=True
+    enable_explain_comments=False
+    enable_fts3=False
+    enable_fts4=False
+    enable_fts5=False
+    enable_json1=False
+    enable_rtree=True
+    enable_unlock_notify=True
+    fPIC=True
+    omit_load_extension=False
+    shared=False
+    threadsafe=1
+
+[recipe_hash]
+    302c5b2394bacdde25faefc4cb9b24f4
+
+[env]
+

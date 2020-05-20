@@ -1,0 +1,17 @@
+1586800774
+conaninfo.txt: a7f5a39f7faff57f376664f526d01845
+include/xkbcommon/xkbcommon-compat.h: b07292505eb1a4861a72d2cfb4da7cf8
+include/xkbcommon/xkbcommon-compose.h: 439f85cfa6bf113a8b539b7bcb38961f
+include/xkbcommon/xkbcommon-keysyms.h: fc6b42e2bd7dc83bec2ca3f5d34075c6
+include/xkbcommon/xkbcommon-names.h: 10fedda2f75a254daf645e9ad4d6fc53
+include/xkbcommon/xkbcommon-x11.h: bcc447cfba2668cba6024fa5265ab2c6
+include/xkbcommon/xkbcommon.h: 94800a41f5c517d31eb2155d639d9f2a
+lib/libxkbcommon-x11.so: cc91581371d0f7ad9d04b7550f8c43ed
+lib/libxkbcommon-x11.so.0: cc91581371d0f7ad9d04b7550f8c43ed
+lib/libxkbcommon-x11.so.0.0.0: cc91581371d0f7ad9d04b7550f8c43ed
+lib/libxkbcommon.so: 6c23feea0cfa8c10b6655c3c150622c7
+lib/libxkbcommon.so.0: 6c23feea0cfa8c10b6655c3c150622c7
+lib/libxkbcommon.so.0.0.0: 6c23feea0cfa8c10b6655c3c150622c7
+lib/pkgconfig/xkbcommon-x11.pc: 6e67019f91ee3c5578eb52013c8688b3
+lib/pkgconfig/xkbcommon.pc: 915195d41936aa8b52d88e092d175167
+licenses/LICENSE: e525ed9809e1f8a07cf4bce8b09e8b87

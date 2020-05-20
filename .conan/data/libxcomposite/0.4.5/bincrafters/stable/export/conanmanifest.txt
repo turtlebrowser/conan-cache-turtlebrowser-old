@@ -1,0 +1,6 @@
+1588148356
+conanfile.py: 6fb71b53a123bc984b15fcca6b96b72e
+conanfile_base.py: 4e83a35f33e07a4b2a054016377c93d4
+patches/clang.patch: 1823e10beabbe4c2118f6975dbdb4c73
+patches/libx11.patch: c476a3281c1e804cfdd91b0a0a8ac00b
+patches/xcb-util-image.patch: ee7888e4c2cb9b21ba8f50935c19c01c

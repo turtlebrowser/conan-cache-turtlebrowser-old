@@ -1,0 +1,20 @@
+1588236116
+conaninfo.txt: cd0f8734ec5819938b62560d4ef6686c
+include/X11/extensions/scrnsaver.h: b787827224574ffbee2224e2137e3288
+lib/libXss.so: 6ec12013881a51546eeb9d641723c508
+lib/libXss.so.1: 6ec12013881a51546eeb9d641723c508
+lib/libXss.so.1.0.0: 6ec12013881a51546eeb9d641723c508
+lib/pkgconfig/xscrnsaver.pc: a7d78b54957084a4d4635bf2403f4c88
+licenses/COPYING: 21fd154ee757813632ada871a34113fb
+share/man/man3/XScreenSaverAllocInfo.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverGetRegistered.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverQueryExtension.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverQueryInfo.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverQueryVersion.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverRegister.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverSelectInput.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverSetAttributes.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverSuspend.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverUnregister.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/XScreenSaverUnsetAttributes.3: 6589cd57cf9751b7b833cbf0be39adf4
+share/man/man3/Xss.3: e25f14c0ff59737c66957eb2da390e12

@@ -1,0 +1,10 @@
+1582080319
+bin/pcre2grep: e147b252f3d6611b415f3cec06895062
+conaninfo.txt: cff513545f1ccf116c17156adee191a6
+include/pcre2.h: 826b789bc0574b2a9c9c87a66288254d
+include/pcre2posix.h: f4bc2d8e6d0f78fe4ef75de2054e2581
+lib/libpcre2-16.a: 5c4f87f2a5ba34fb8f1521d5e7ed1931
+lib/libpcre2-32.a: 70446d911c7b3f045e8d467c09f00ddb
+lib/libpcre2-8.a: c585e9a1650103282c79373f85065ea3
+lib/libpcre2-posix.a: ecd0880a161749dd66f2bf4a47928de5
+licenses/LICENCE: b1588d3bb4cb0e1f5a597d908f8c5b37

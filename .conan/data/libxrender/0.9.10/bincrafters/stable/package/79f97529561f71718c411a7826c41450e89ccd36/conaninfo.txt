@@ -1,0 +1,50 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    libx11/1.Y.Z
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    libpthread-stubs/0.1@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    libx11/1.6.8@bincrafters/stable:ca673059bbdfbf99c22efbf6268a147d44c611e0
+    libxau/1.0.9@bincrafters/stable:6ada0d66d142c8adc7d6b34e6abf1b6a0731b12d
+    libxcb/1.13.1@bincrafters/stable:8bc4afa20c995cf83669926c4c1b1e90086522ca
+    libxdmcp/1.1.3@bincrafters/stable:25fdea2c1f68609038a98ebba4c71c7f3b617e99
+    util-macros/1.19.2@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    xcb-proto/1.13@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    xorgproto/2019.1@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    xproto/7.0.31@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    xtrans/1.4.0@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+
+[full_options]
+    fPIC=True
+    shared=False
+    libx11:fPIC=True
+    libx11:shared=False
+    libxau:fPIC=True
+    libxau:shared=False
+    libxcb:fPIC=True
+    libxcb:shared=False
+    libxdmcp:fPIC=True
+    libxdmcp:shared=False
+
+[recipe_hash]
+    f7e87e852f78c799027c0ff3a4b22703
+
+[env]
+    MAKEFLAGS=--silent

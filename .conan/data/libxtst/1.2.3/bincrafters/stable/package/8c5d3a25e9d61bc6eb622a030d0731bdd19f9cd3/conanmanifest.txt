@@ -1,0 +1,20 @@
+1589741949
+conaninfo.txt: 521a2b190c29e97b4b52e8cdbf8a9861
+include/X11/extensions/XTest.h: 6870ababd6c7442db582704ae724f69a
+include/X11/extensions/record.h: bf4307ca11adabd494cd8546def4efa7
+lib/libXtst.a: c41fcf162e56518b0186d8c457e5e600
+lib/pkgconfig/xtst.pc: 1b53d3ceb041e0141f05703aec965042
+licenses/COPYING: bb4f89972c3869f617f61c1a79ad1952
+share/doc/libXtst/recordlib.xml: ade6185eaf5632209a058533f09cb59a
+share/doc/libXtst/xtestlib.xml: c8cacc7f91722f10ae89ca8e2dcf5537
+share/man/man3/XTestCompareCurrentCursorWithWindow.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestCompareCursorWithWindow.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestDiscard.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestFakeButtonEvent.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestFakeKeyEvent.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestFakeMotionEvent.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestFakeRelativeMotionEvent.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestGrabControl.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestQueryExtension.3: c744644506ffd80d4a786262902251ce
+share/man/man3/XTestSetGContextOfGC.3: b42f189b1d2c7c8ba16deadd17a2d760
+share/man/man3/XTestSetVisualIDOfVisual.3: b42f189b1d2c7c8ba16deadd17a2d760

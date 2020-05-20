@@ -1,0 +1,27 @@
+[settings]
+
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=clang
+    compiler.version=5.0
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    0d53555a83a77a4db8930414edc0b013
+
+[env]
+    MAKEFLAGS=--silent

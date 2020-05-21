@@ -1,4 +1,0 @@
-1550043543
-LICENSE.md: e5e131742c86307b7fb2fc2255e6277d
-conanfile.py: 47d2e09f9bfe784ded8f6c72d4c80547
-export_source/secure_snprintf.patch: e039edf45527ac29f7ca40b7fe8123cf

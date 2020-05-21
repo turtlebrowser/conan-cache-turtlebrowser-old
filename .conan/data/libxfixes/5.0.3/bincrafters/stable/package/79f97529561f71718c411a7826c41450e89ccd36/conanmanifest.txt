@@ -1,7 +1,0 @@
-1588235719
-conaninfo.txt: 29412c4dcec7baa16685670a8aacbcd1
-include/X11/extensions/Xfixes.h: 8697bdf4b97df7ce93775bedc986ecb9
-lib/libXfixes.a: 47d732032601a8401790ee95397ba51f
-lib/pkgconfig/xfixes.pc: 29f8c06185bf2fd3c1e5ca8fb7a9d2b5
-licenses/COPYING: 3c1ce42c334a6f5cccb0277556a053e0
-share/man/man3/Xfixes.3: 3dfcc3b275a5a07efc120f9ff1881545

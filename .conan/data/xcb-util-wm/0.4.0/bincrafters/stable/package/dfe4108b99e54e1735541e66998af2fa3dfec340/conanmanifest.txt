@@ -1,0 +1,8 @@
+1588235082
+conaninfo.txt: e577c46a1370931665ea711d3459d87f
+include/xcb/xcb_ewmh.h: ab16df3f352bfb5344ddd5562e1f9e97
+include/xcb/xcb_icccm.h: 5ee7a82ce1537389dede0d8e762fffcc
+lib/libxcb-ewmh.a: 0f083de19bd98f4af8e4940e26f52c25
+lib/libxcb-icccm.a: fa1c1c2942c6f45d095a7dc43dd69663
+lib/pkgconfig/xcb-ewmh.pc: 1b950ce8e8cc4c031f45fc4a6dfa8701
+lib/pkgconfig/xcb-icccm.pc: 58f18f0e507dd7f8d6995027c3b6bff0

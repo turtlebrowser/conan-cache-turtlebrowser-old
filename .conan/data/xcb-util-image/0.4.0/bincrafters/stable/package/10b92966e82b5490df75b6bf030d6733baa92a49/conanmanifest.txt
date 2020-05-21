@@ -1,0 +1,8 @@
+1588236014
+conaninfo.txt: 4652033ced9e6a80001f157321bba2fc
+include/xcb/xcb_bitops.h: 2c2f11d2d6c67e23919ddebeef5d3cbf
+include/xcb/xcb_image.h: be2e5b4df6317157b9875b78f6e4ba73
+include/xcb/xcb_pixel.h: 521d9e72784d3367c5992ea353241cbb
+lib/libxcb-image.a: e93d6562ba3fc9504a28978300cb6185
+lib/pkgconfig/xcb-image.pc: 53224232e0bd81e1cc1934a10e76146e
+licenses/COPYING: ea7d9d7c851fbe7d251c45669cf53579

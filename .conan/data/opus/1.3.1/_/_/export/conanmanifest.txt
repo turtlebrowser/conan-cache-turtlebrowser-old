@@ -1,0 +1,5 @@
+1580907423
+conandata.yml: 23e7803a272b2184ef4046d5938710df
+conanfile.py: 0b602e5f3bc60b146988012685e3a802
+export_source/CMakeLists.txt: 60f84c7535a508b96affb852e43e0813
+export_source/opus_buildtype.cmake: 376df48e9189257df6954dfb912efcd1

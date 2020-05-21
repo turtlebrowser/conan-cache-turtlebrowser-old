@@ -1,0 +1,58 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    expat/2.Y.Z
+    freetype/2.Y.Z
+    libuuid/1.Y.Z
+
+[options]
+    fPIC=True
+    shared=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    bzip2/1.0.8:b27e2b40bcb70be2e7d6f0e0c6e43e35c530f8d3
+    expat/2.2.9:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    freetype/2.10.1:3cdd93cd46fc07735d1b0d7f2860a82fac7a3053
+    libpng/1.6.37:b781af3f476d0aa5070a0a35b544db7a3c193cc8
+    libuuid/1.0.3:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+
+[full_options]
+    fPIC=True
+    shared=True
+    bzip2:build_executable=True
+    bzip2:fPIC=True
+    bzip2:shared=False
+    expat:fPIC=True
+    expat:shared=False
+    freetype:fPIC=True
+    freetype:shared=False
+    freetype:with_bzip2=True
+    freetype:with_png=True
+    freetype:with_zlib=True
+    libpng:api_prefix=None
+    libpng:fPIC=True
+    libpng:shared=False
+    libuuid:fPIC=True
+    libuuid:shared=False
+    zlib:fPIC=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    45c7621e37eaede484300311a3208dc6
+
+[env]
+

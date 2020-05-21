@@ -1,0 +1,9 @@
+prefix=/home/conan/.conan/data/xorgproto/2019.1/bincrafters/stable/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+exec_prefix=${prefix}
+includedir=${prefix}/include
+
+Name: FixesProto
+Description: X Fixes extension headers
+Version: 5.0
+Cflags: -I${includedir}
+Requires: xextproto >= 7.0.99.1

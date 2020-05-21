@@ -1,0 +1,23 @@
+[settings]
+    os=Linux
+
+[requires]
+
+
+[options]
+    provider=system
+
+[full_settings]
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    provider=system
+
+[recipe_hash]
+    cfde544c7e7c29445fb31acfb056d4f9
+
+[env]
+

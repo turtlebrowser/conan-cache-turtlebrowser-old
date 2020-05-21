@@ -1,0 +1,2 @@
+libQt5WebEngineCore.so.* filter=lfs diff=lfs merge=lfs -text
+libQt5WebEngineCore.*.dylib filter=lfs diff=lfs merge=lfs -text

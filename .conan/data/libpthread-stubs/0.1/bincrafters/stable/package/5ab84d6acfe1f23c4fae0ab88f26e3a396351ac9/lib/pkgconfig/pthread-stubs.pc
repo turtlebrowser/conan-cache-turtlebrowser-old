@@ -1,0 +1,8 @@
+prefix=/home/conan/.conan/data/libpthread-stubs/0.1/bincrafters/stable/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+
+Name: pthread stubs
+Description: Stubs missing from libc for standard pthread functions
+Version: 0.1
+Libs: 

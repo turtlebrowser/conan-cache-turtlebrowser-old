@@ -1,0 +1,83 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    libelf/0.8.13
+    libffi/3.Y.Z
+    libmount/2.Y.Z
+    libselinux/2.Y.Z
+    pcre/8.Y.Z
+    zlib/1.Y.Z
+
+[options]
+    fPIC=True
+    shared=True
+    with_elf=True
+    with_mount=True
+    with_pcre=True
+    with_selinux=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    bzip2/1.0.8:b27e2b40bcb70be2e7d6f0e0c6e43e35c530f8d3
+    libelf/0.8.13:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    libffi/3.2.1:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    libmount/2.33.1:d50a0d523d98c15bb147b18fa7d203887c38be8b
+    libselinux/2.9@bincrafters/stable:0bb503419c6bf6dd4489726d1b38fdf514902a37
+    pcre/8.41:dc325ee17a0eb65afe28199db07a0e631d482f50
+    pcre2/10.33:43705fce3f52ed2a710297dacf55a8cff8b228ec
+    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+
+[full_options]
+    fPIC=True
+    shared=True
+    with_elf=True
+    with_mount=True
+    with_pcre=True
+    with_selinux=True
+    bzip2:build_executable=True
+    bzip2:fPIC=True
+    bzip2:shared=False
+    libelf:fPIC=True
+    libelf:shared=False
+    libffi:fPIC=True
+    libffi:shared=False
+    libmount:fPIC=True
+    libmount:shared=False
+    libselinux:fPIC=True
+    libselinux:shared=False
+    pcre:build_pcrecpp=False
+    pcre:build_pcregrep=False
+    pcre:fPIC=True
+    pcre:shared=False
+    pcre:with_bzip2=True
+    pcre:with_jit=False
+    pcre:with_unicode_properties=False
+    pcre:with_utf=False
+    pcre:with_zlib=True
+    pcre2:build_pcre2_16=True
+    pcre2:build_pcre2_32=True
+    pcre2:build_pcre2_8=True
+    pcre2:fPIC=True
+    pcre2:shared=False
+    pcre2:support_jit=True
+    pcre2:with_bzip2=True
+    zlib:fPIC=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    d023771a1eb636e395abfe23a9eb5599
+
+[env]
+

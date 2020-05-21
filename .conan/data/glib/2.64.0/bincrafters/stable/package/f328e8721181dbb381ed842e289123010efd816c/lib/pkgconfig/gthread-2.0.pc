@@ -1,0 +1,10 @@
+prefix=/home/conan/.conan/data/glib/2.64.0/bincrafters/stable/package/f328e8721181dbb381ed842e289123010efd816c
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: GThread
+Description: Thread support for GLib
+Version: 2.64.0
+Requires: glib-2.0
+Libs: -L${libdir} -lgthread-2.0 -pthread
+Cflags:-I${includedir} -pthread

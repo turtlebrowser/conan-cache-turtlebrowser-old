@@ -1,0 +1,28 @@
+[settings]
+    arch_build=x86_64
+    os_build=Linux
+
+[requires]
+    m4_installer/1.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    compiler=gcc
+    compiler.version=7
+    os_build=Linux
+
+[full_requires]
+    m4_installer/1.4.18@bincrafters/stable:44fcf6b9a7fb86b2586303e3db40189d3b511830
+
+[full_options]
+
+
+[recipe_hash]
+    6e51a87d8cc552cac9f87776f66859ee
+
+[env]
+

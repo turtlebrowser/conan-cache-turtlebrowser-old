@@ -1,0 +1,6 @@
+1588235267
+conaninfo.txt: 3bf4817753520d67b986da5a005b3fe4
+include/xcb/xcb_renderutil.h: 1dbb5a335c0cbe1701c61ee8ab552555
+lib/libxcb-render-util.a: b6d55c75dce6ee1edf1a3ea03083c07f
+lib/pkgconfig/xcb-renderutil.pc: b0704dbfc30f0e8d683b8cc8fc4bc11d
+licenses/COPYING: 215cb93f2e88d81d7be73b24debbcd7c

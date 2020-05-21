@@ -1,0 +1,11 @@
+prefix=/home/conan/.conan/data/xcb-proto/1.13/bincrafters/stable/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+exec_prefix=${prefix}
+datarootdir=${prefix}/share
+datadir=${datarootdir}
+libdir=${prefix}/lib
+xcbincludedir=${datadir}/xcb
+pythondir=${prefix}/lib/python3.7/site-packages
+
+Name: XCB Proto
+Description: X protocol descriptions for XCB
+Version: 1.13

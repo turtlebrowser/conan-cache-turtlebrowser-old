@@ -1,0 +1,42 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    zlib/1.Y.Z
+
+[options]
+    disable_rpath=False
+    fPIC=True
+    shared=False
+    with_openssl=False
+    with_zlib=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    zlib/1.2.11:d50a0d523d98c15bb147b18fa7d203887c38be8b
+
+[full_options]
+    disable_rpath=False
+    fPIC=True
+    shared=False
+    with_openssl=False
+    with_zlib=True
+    zlib:fPIC=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    a0f8c451875007b1188bc552a0d7850a
+
+[env]
+

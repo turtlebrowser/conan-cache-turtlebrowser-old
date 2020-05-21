@@ -1,0 +1,9 @@
+prefix=/home/conan/.conan/data/libdrm/2.4.100/bincrafters/stable/package/50a762945a2539103bcb8c3ea230c9bb5e11b383
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libdrm_vc4
+Description: Userspace interface to vc4 kernel DRM services
+Version: 2.4.100
+Requires.private: libdrm
+Cflags: -I${includedir}

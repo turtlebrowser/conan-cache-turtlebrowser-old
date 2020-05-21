@@ -1,0 +1,6 @@
+1586431635
+FindHarfBuzz.cmake: 09632d66bd2fc54f615e73865e656e23
+LICENSE.md: 98aca502dd71323744bd78a8a690c0eb
+conanfile.py: 74db5fc9464f4d6c27e8b3d87ea39163
+export_source/CMakeLists.txt: e7d5c6f2577e414f290efbe6530165c0
+export_source/source_subfolder.patch: d54b4408a5a6952083bc0c0a52639f4a

@@ -1,0 +1,4 @@
+1586800557
+conandata.yml: 1e0132470054016b43e33544c27c1a6e
+conanfile.py: 04443da07a1c806b0d613ec4c613ad78
+option_use-static.diff: f21c3f1e96795b09ec0f83764cda7620

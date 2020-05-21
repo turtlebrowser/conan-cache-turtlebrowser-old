@@ -1,0 +1,7 @@
+1589152863
+conaninfo.txt: 3f1da3a38838b509e0f674fe9cc64973
+include/pcre.h: 402b73ce17e8ed080b261890912f1ac1
+include/pcreposix.h: 9c67f0d3ea8d1494e04125afe9c3eb31
+lib/libpcre.a: b8422e8e74a3b23efe1c7e68b26731c2
+lib/libpcreposix.a: 29174dced73c2cb54e99ff8fbb627f9d
+licenses/LICENCE: 60da32d84d067f53e22071c4ecb4384d

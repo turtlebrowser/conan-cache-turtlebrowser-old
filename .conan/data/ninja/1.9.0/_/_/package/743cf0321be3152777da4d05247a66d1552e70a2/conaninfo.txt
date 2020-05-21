@@ -1,0 +1,28 @@
+[settings]
+    arch_build=x86_64
+    os_build=Macos
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch_build=x86_64
+    compiler=apple-clang
+    compiler.libcxx=libc++
+    compiler.version=9.1
+    os_build=Macos
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    719b96eb4131be9680289011e09ea3e7
+
+[env]
+

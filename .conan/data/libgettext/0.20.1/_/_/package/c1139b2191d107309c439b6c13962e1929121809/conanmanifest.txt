@@ -1,0 +1,5 @@
+1588700520
+conaninfo.txt: 599bba66d6470a24820a99f705c35416
+include/libintl.h: df3ec2c1cb039a65c2dd534c0a4d54f3
+lib/libgnuintl.a: 47733b8eff487b99ffda3b186a7c77cd
+licenses/COPYING: c678957b0c8e964aa6c70fd77641a71e

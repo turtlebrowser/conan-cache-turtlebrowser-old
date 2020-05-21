@@ -1,0 +1,5 @@
+1589792591
+conandata.yml: a22c592d6d05f21a82b36a0215b4616c
+conanfile.py: 0a730234b665ef06b6b9f643fb24ab27
+export_source/CMakeLists.txt: c94b7c049bffed32ef62c98603701ccf
+export_source/patches/CMakeLists-zlib.patch: 2f4cd25a2c6da6932859589d62c660b9

@@ -1,0 +1,35 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[requires]
+    libiconv/1.Y.Z
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[full_requires]
+    libiconv/1.16:f74366f76f700cc6e991285892ad7a23c30e6d47
+
+[full_options]
+    fPIC=True
+    shared=False
+    libiconv:fPIC=True
+    libiconv:shared=False
+
+[recipe_hash]
+    d93752b8d5b441811cdd35ea793e690f
+
+[env]
+

@@ -1,0 +1,35 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[requires]
+
+
+[options]
+    fPIC=True
+    minizip=False
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[full_requires]
+
+
+[full_options]
+    fPIC=True
+    minizip=False
+    shared=False
+
+[recipe_hash]
+    e69eb26137def0a77953bb0afe1bcb54
+
+[env]
+

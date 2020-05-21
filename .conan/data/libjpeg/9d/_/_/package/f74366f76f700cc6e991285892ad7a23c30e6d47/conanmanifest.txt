@@ -1,0 +1,13 @@
+1585069005
+bin/cjpeg: f5a13d167326badf4d5b81e5a4c60be8
+bin/djpeg: d84ae732842423e52cef1754478ef838
+bin/jpegtran: 567c55ad4c127ff3b6d25699063d47df
+bin/rdjpgcom: 4054e9cc143131976c0ea3ca670ac2cb
+bin/wrjpgcom: 92e3cd40023753016fbb9dd11e3bd8c4
+conaninfo.txt: 0e1905a12f728ab04968ffabdf0b3d1e
+include/jconfig.h: ca3d9e86de2bbdbe8240edb85ab17843
+include/jerror.h: 8001f7238161aef01a3d4319f5a699c9
+include/jmorecfg.h: 95fd54daf9b8232f743dd938dfa87726
+include/jpeglib.h: 5fdab3089cd6666b77b00f2f63243082
+lib/libjpeg.a: b5219f09604d1243665143323845e476
+licenses/README: 41ce79696b7cebc1e3715f19af5db026

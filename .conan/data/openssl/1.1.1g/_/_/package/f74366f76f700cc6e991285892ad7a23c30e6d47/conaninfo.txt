@@ -1,0 +1,69 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[requires]
+
+
+[options]
+    386=False
+    fPIC=True
+    no_asm=False
+    no_async=False
+    no_bf=False
+    no_cast=False
+    no_des=False
+    no_dh=False
+    no_dsa=False
+    no_dso=False
+    no_hmac=False
+    no_md5=False
+    no_mdc2=False
+    no_rc2=False
+    no_rsa=False
+    no_sha=False
+    no_sse2=False
+    no_threads=False
+    openssldir=None
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[full_requires]
+
+
+[full_options]
+    386=False
+    fPIC=True
+    no_asm=False
+    no_async=False
+    no_bf=False
+    no_cast=False
+    no_des=False
+    no_dh=False
+    no_dsa=False
+    no_dso=False
+    no_hmac=False
+    no_md5=False
+    no_mdc2=False
+    no_rc2=False
+    no_rsa=False
+    no_sha=False
+    no_sse2=False
+    no_threads=False
+    openssldir=None
+    shared=False
+
+[recipe_hash]
+    4d770f6045271f6413db6792177eb7bd
+
+[env]
+

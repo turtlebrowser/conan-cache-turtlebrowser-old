@@ -1,0 +1,13 @@
+prefix=/Users/runner/runners/2.262.1/work/turtlebrowser/turtlebrowser/conan/.conan/data/qt/5.14.2/bincrafters/stable/package/08da0b7d1da6e486a4c4729cc3b9c4e72efee391
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 WebView
+Description: Qt WebView module
+Version: 5.14.2
+Libs: -L${libdir} -lQt5WebView 
+Cflags: -DQT_WEBVIEW_LIB -I${includedir}/QtWebView -I${includedir}
+Requires: Qt5Core Qt5Gui
+

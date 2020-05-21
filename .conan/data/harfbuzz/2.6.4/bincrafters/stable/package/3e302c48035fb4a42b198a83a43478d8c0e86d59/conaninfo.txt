@@ -1,0 +1,83 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[requires]
+    freetype/2.Y.Z
+    glib/2.Y.Z
+
+[options]
+    fPIC=True
+    shared=False
+    with_freetype=True
+    with_glib=True
+    with_icu=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=11.0
+    os=Macos
+
+[full_requires]
+    bzip2/1.0.8:32bef4803d4b079e983ecb27f105881e778bc5a7
+    freetype/2.10.1:9fbc622fdb9d2462147cf446a56b1688bf016d05
+    glib/2.64.0@bincrafters/stable:2f35ff713084d1b9a9452ef9ed236a58748ab45c
+    libelf/0.8.13:8e2e3059f283d3d138b85d022534c5632c4ffd1b
+    libffi/3.2.1:f74366f76f700cc6e991285892ad7a23c30e6d47
+    libgettext/0.20.1:c1139b2191d107309c439b6c13962e1929121809
+    libiconv/1.16:f74366f76f700cc6e991285892ad7a23c30e6d47
+    libpng/1.6.37:eb50d18a5a5d59bd0c332464a4c348ab65e353bf
+    pcre/8.41:d6dbf7bc4ba20d9c0937065aaab46dc0bba20c3a
+    zlib/1.2.11:f74366f76f700cc6e991285892ad7a23c30e6d47
+
+[full_options]
+    fPIC=True
+    shared=False
+    with_freetype=True
+    with_glib=True
+    with_icu=False
+    bzip2:build_executable=True
+    bzip2:fPIC=True
+    bzip2:shared=False
+    freetype:fPIC=True
+    freetype:shared=False
+    freetype:with_bzip2=True
+    freetype:with_png=True
+    freetype:with_zlib=True
+    glib:fPIC=True
+    glib:shared=True
+    glib:with_elf=True
+    glib:with_pcre=True
+    libelf:shared=False
+    libffi:fPIC=True
+    libffi:shared=False
+    libgettext:fPIC=True
+    libgettext:shared=False
+    libiconv:fPIC=True
+    libiconv:shared=False
+    libpng:api_prefix=None
+    libpng:fPIC=True
+    libpng:shared=False
+    pcre:build_pcrecpp=False
+    pcre:build_pcregrep=False
+    pcre:fPIC=True
+    pcre:shared=False
+    pcre:with_bzip2=True
+    pcre:with_jit=False
+    pcre:with_unicode_properties=False
+    pcre:with_utf=False
+    pcre:with_zlib=True
+    zlib:fPIC=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    a704fee383d4adac6abd87d20b1c90c8
+
+[env]
+

@@ -1,0 +1,16 @@
+prefix=/home/conan/.conan/data/util-macros/1.19.2/bincrafters/stable/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+exec_prefix=${prefix}
+includedir=${prefix}/include
+datarootdir=${prefix}/share
+datadir=${datarootdir}
+PACKAGE=util-macros
+# Used by XORG_INSTALL
+pkgdatadir=${datadir}/${PACKAGE}
+# docdir is kept for backwards compatibility with XORG_INSTALL from
+# util-macros 1.4
+docdir=${pkgdatadir}
+
+Name: X.Org Macros
+Description: A set of autoconf project macros for X.Org modules
+Version: 1.19.2
+

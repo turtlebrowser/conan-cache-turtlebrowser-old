@@ -1,0 +1,28 @@
+[settings]
+    arch_build=x86_64
+    os_build=Linux
+
+[requires]
+
+
+[options]
+
+
+[full_settings]
+    arch_build=x86_64
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=7
+    os_build=Linux
+
+[full_requires]
+
+
+[full_options]
+
+
+[recipe_hash]
+    c37fdb7d50156e457e5bcf09dd8e7768
+
+[env]
+

@@ -1,0 +1,9 @@
+1550046734
+bin/m4: bc8839fac5ae851ffbd3c97ed1e87b55
+conaninfo.txt: 219b2a2627539fd8eecbeb8c74ac12b9
+licenses/COPYING: d32239bcb673463ab874e80d47fae504
+share/info/dir: 9821e3397ae7f7e78a2324862a67cd0f
+share/info/m4.info: 4f70b7495e8c390efe111e847bc0dfed
+share/info/m4.info-1: 772bfabb4e13e0ec60d999ebc42d6b6d
+share/info/m4.info-2: 13a649b653001a6ed422900a37ff42ef
+share/man/man1/m4.1: cf3479e1ae35607bd04715bc7328cd89

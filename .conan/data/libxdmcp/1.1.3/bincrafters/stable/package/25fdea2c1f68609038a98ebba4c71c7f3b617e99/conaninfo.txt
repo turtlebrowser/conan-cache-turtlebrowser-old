@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+    xproto/7.Y.Z
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    xproto/7.0.31@bincrafters/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+
+[full_options]
+    fPIC=True
+    shared=False
+
+[recipe_hash]
+    3623d316e81971f74da042717e68b8cd
+
+[env]
+    MAKEFLAGS=--silent

@@ -1,0 +1,4 @@
+1584372016
+bin/gperf: 7c6f8cb000a278b881e9a84a1f3b8196
+conaninfo.txt: 3bc4b89fab18a9dcc349d0e5194d4cff
+licenses/COPYING: d32239bcb673463ab874e80d47fae504

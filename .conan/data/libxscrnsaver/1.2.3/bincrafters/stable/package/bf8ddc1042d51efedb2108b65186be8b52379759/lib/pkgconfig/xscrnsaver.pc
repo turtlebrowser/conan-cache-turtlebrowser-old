@@ -1,0 +1,12 @@
+prefix=/home/conan/.conan/data/libxscrnsaver/1.2.3/bincrafters/stable/package/bf8ddc1042d51efedb2108b65186be8b52379759
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: XScrnSaver
+Description: The XScrnSaver Library
+Version: 1.2.3
+Requires: scrnsaverproto
+Requires.private: x11 xext
+Cflags: -I${includedir}
+Libs: -L${libdir} -lXss

@@ -1,0 +1,13 @@
+prefix=/home/conan/.conan/data/libxcb/1.13.1/bincrafters/stable/package/9b167c2db799066d3aee13159ba436b7a776c2b2
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+xcbproto_version=1.13
+
+Name: XCB
+Description: X-protocol C Binding
+Version: 1.13.1
+Requires.private: pthread-stubs xau >= 0.99.2 xdmcp
+Libs: -L${libdir} -lxcb
+Libs.private: -lXau -lXdmcp
+Cflags: -I${includedir}

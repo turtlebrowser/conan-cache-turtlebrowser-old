@@ -1,0 +1,7 @@
+1588233874
+conaninfo.txt: 554739793fba6c374f5a657e4aed3005
+include/X11/Xdmcp.h: a83136503ec509b489354bc1d7c49184
+lib/libXdmcp.a: cf59a37bc96c6555af42d8de36ecfb9d
+lib/pkgconfig/xdmcp.pc: b8763a3e4ebda0964484c25ef184aca5
+licenses/COPYING: d559fb26e129626022e052a5e6e0e123
+share/doc/libXdmcp/xdmcp.xml: dea6f1ce3b3f7414dd028b5df93ee4e4

@@ -1,0 +1,11 @@
+prefix=/home/conan/.conan/data/xkbcommon/0.10.0/bincrafters/stable/package/90c80475444b589413e6d6445a7c0ee47c032124
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: xkbcommon-x11
+Description: XKB API common to servers and clients - X11 support
+Version: 0.10.0
+Requires: xkbcommon
+Requires.private: xcb >= 1.10, xcb-xkb >= 1.10
+Libs: -L${libdir} -lxkbcommon-x11
+Cflags: -I${includedir}

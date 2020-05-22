@@ -1,0 +1,35 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[requires]
+
+
+[options]
+    fPIC=True
+    fixed_point=False
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    fPIC=True
+    fixed_point=False
+    shared=False
+
+[recipe_hash]
+    921d3218d0eaa17590f4d5b3ebf8d1fd
+
+[env]
+

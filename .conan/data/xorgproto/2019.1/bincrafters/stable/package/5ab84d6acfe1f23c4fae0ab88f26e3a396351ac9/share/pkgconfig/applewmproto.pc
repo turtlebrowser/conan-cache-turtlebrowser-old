@@ -1,0 +1,8 @@
+prefix=/home/conan/.conan/data/xorgproto/2019.1/bincrafters/stable/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+exec_prefix=${prefix}
+includedir=${prefix}/include
+ 
+Name: AppleWMProto
+Description: AppleWM extension headers
+Version: 1.4.2
+Cflags: -I${includedir}

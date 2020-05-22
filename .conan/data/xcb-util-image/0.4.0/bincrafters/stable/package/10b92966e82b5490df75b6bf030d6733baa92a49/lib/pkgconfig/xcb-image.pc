@@ -1,0 +1,11 @@
+prefix=/home/conan/.conan/data/xcb-util-image/0.4.0/bincrafters/stable/package/10b92966e82b5490df75b6bf030d6733baa92a49
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB Image library
+Description: XCB image convenience library
+Version: 0.4.0
+Requires: xcb xcb-shm
+Libs: -L${libdir} -lxcb-image -lxcb-util -lxcb -lXau -lXdmcp
+Cflags: -I${includedir}

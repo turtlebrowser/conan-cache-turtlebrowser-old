@@ -1,6 +1,0 @@
-1588232984
-conaninfo.txt: 99d7da404e97ebfa46f2f1c099cceb23
-licenses/COPYING: 1970511fddd439b07a6ba789d28ff662
-share/aclocal/xorg-macros.m4: 1042a4d0887285ceb47813c0757195b2
-share/pkgconfig/xorg-macros.pc: 7ccea7bbad9040e88c8de515aabf5344
-share/util-macros/INSTALL: 8413fff12357e1a32f5c055dd801dd55

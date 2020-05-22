@@ -1,7 +1,0 @@
-1588235814
-conaninfo.txt: 8e6ac9ffc3a51bec772ec5694ba4bfdb
-include/X11/extensions/Xrender.h: 82c211968361aa5dcae87a83a1afaa28
-lib/libXrender.a: b1bf09354e185b1c4f4133b3368b6542
-lib/pkgconfig/xrender.pc: e4af211f2e5f633f394a34d618fa9a7c
-licenses/COPYING: d8bc71986d3b9b3639f6dfd6fac8f196
-share/doc/libXrender/libXrender.txt: 720b67f2aaef8a0871260f7cf82765ad

@@ -1,4 +1,0 @@
-1588233311
-conaninfo.txt: 4ddf86fd26926bdc1689f81593a6afc3
-lib/pkgconfig/pthread-stubs.pc: 6433e63ec424dd332e9aca5d1c7c690e
-licenses/COPYING: 6edc1fea03d959f0c2d743fe5ca746ad

@@ -1,0 +1,13 @@
+1580844555
+conandata.yml: 17e8f365f88f8ae3ebaabd63b79a658f
+conanfile.py: 4ae07024c94f5a2ae4d2bfc8a80ec4df
+export_source/patches/0001-3.2.1-add-support-windows-dll.patch: f4254b0cf7e1bece1352e8e375f71fe7
+export_source/patches/0002-3.2.1-fix-libtool-path.patch: 221930b429df8187c3d4b389b6870ea5
+export_source/patches/0002-3.3-fix-libtool-path.patch: d7a952a52e0b34af6b8d1fc7e39b4165
+export_source/patches/0003-3.2.1-fix-win64-assembly.patch: a33798d54024f0d7036565d2317b0190
+export_source/patches/0004-3.2.1-fix-complex-type-msvc.patch: 001ab736df448943a90a77f1518bc040
+export_source/patches/0004-3.3-fix-complex-type-msvc.patch: 8c1f67c2f56e3e798146f05028a403e6
+export_source/patches/0005-3.2.1-do-not-install-libraries-to-arch-dependent-directories.patch: 3e996419d472f1c56c2c88990fde3193
+export_source/patches/0005-3.3-do-not-install-libraries-to-arch-dependent-directories.patch: 0675fc1bbe0a416a2c69ab7b146628ac
+export_source/patches/0006-3.2.1-library-no-version-suffix.patch: a8abfa2f80631033d244b1e7fb206bf9
+export_source/patches/0006-3.3-library-no-version-suffix.patch: 0b58175d42f7582fdac6711d28b34da3

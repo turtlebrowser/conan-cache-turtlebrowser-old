@@ -1,0 +1,13 @@
+prefix=C:/.conan/d2f401/1
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+gmodule_supported=true
+
+Name: GModule
+Description: Dynamic module loader for GLib
+Version: 2.64.0
+Requires: glib-2.0
+Libs: -L${libdir} -lgmodule-2.0
+Libs.private: -lgnuintl
+Cflags:-I${includedir}

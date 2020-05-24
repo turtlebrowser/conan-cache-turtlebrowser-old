@@ -1,0 +1,8 @@
+1585069009
+conaninfo.txt: 180bae596a89fd863b807bc8f8126dcf
+include/jconfig.h: ccf0253f6c9851ca97bd65c8f2e48683
+include/jerror.h: 8001f7238161aef01a3d4319f5a699c9
+include/jmorecfg.h: 95fd54daf9b8232f743dd938dfa87726
+include/jpeglib.h: 5fdab3089cd6666b77b00f2f63243082
+lib/libjpeg.lib: 83896b3d25bc173953730f976d51cd20
+licenses/README: 41ce79696b7cebc1e3715f19af5db026

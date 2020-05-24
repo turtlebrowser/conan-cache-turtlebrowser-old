@@ -1,0 +1,1 @@
+c:\release\.conan\data\harfbuzz\2.6.4\bincrafters\stable\package\1b94dda612e9a43ab30610d3a5a3f4483788d3a1

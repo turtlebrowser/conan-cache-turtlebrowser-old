@@ -1,0 +1,9 @@
+1588635851
+bin/iconv.exe: dcdd26bc51304dfc037d92ab57fd2747
+conaninfo.txt: 76827801e8792ae34a265ebf91029ee3
+include/iconv.h: 9f911875c0e8b2bbee404630c65d590d
+include/libcharset.h: 1cd52fc7235fa3238604f89845296d0b
+include/localcharset.h: 818976f5ab8b223d94d2add2eb8bc807
+lib/charset.lib: f13589bde1f7c6d85a395dc515a9410b
+lib/iconv.lib: 18eb238586ff59f3c59c2fa86dd047d4
+licenses/COPYING.LIB: 9f604d8a4f8e74f4f5140845a21b6674

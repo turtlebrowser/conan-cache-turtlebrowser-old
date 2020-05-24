@@ -1,0 +1,6 @@
+1589792216
+conandata.yml: 729523e986aaa165ac95eba9e131a34f
+conanfile.py: 02043ae1707f1cc66cde4130541e1030
+export_source/CMakeLists.txt: b45a8f19ed120e922c1cb720c0e4a7c7
+export_source/CMakeLists_minizip.txt: d94a722f450fecc09867d338584f97a2
+export_source/minizip.patch: dc8ffe80d334f8e5b1bb967593fe2d4a

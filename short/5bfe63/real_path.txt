@@ -1,0 +1,1 @@
+c:\release\.conan\data\glib\2.64.0\bincrafters\stable\package\39022ddb4abc5a55ae186ee8c99842984908fec8

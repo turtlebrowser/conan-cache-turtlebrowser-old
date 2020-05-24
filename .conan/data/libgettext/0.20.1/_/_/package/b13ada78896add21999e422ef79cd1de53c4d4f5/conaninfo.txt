@@ -1,0 +1,34 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[requires]
+    libiconv/1.Y.Z
+
+[options]
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[full_requires]
+    libiconv/1.16:3fb49604f9c2f729b85ba3115852006824e72cab
+
+[full_options]
+    shared=False
+    libiconv:shared=False
+
+[recipe_hash]
+    d93752b8d5b441811cdd35ea793e690f
+
+[env]
+

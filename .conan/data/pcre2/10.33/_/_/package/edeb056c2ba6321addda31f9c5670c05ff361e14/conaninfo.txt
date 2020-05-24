@@ -1,0 +1,49 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[requires]
+    bzip2/1.Y.Z
+    zlib/1.Y.Z
+
+[options]
+    build_pcre2_16=True
+    build_pcre2_32=True
+    build_pcre2_8=True
+    shared=False
+    support_jit=True
+    with_bzip2=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[full_requires]
+    bzip2/1.0.8:d16a91eadaaf5829b928b12d2f836ff7680d3df5
+    zlib/1.2.11:3fb49604f9c2f729b85ba3115852006824e72cab
+
+[full_options]
+    build_pcre2_16=True
+    build_pcre2_32=True
+    build_pcre2_8=True
+    shared=False
+    support_jit=True
+    with_bzip2=True
+    bzip2:build_executable=True
+    bzip2:shared=False
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    7c5af67885001b312411c036f2eab030
+
+[env]
+

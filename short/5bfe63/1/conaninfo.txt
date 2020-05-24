@@ -1,0 +1,63 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[requires]
+    libelf/0.8.13
+    libffi/3.Y.Z
+    libgettext/0.20.1
+    pcre/8.Y.Z
+    zlib/1.Y.Z
+
+[options]
+    shared=True
+    with_elf=True
+    with_pcre=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[full_requires]
+    bzip2/1.0.8:d16a91eadaaf5829b928b12d2f836ff7680d3df5
+    libelf/0.8.13:3fb49604f9c2f729b85ba3115852006824e72cab
+    libffi/3.2.1:3fb49604f9c2f729b85ba3115852006824e72cab
+    libgettext/0.20.1:b13ada78896add21999e422ef79cd1de53c4d4f5
+    libiconv/1.15:3fb49604f9c2f729b85ba3115852006824e72cab
+    pcre/8.41:d7395842f2f7d41b0ef342636c327d2468ecbc8c
+    zlib/1.2.11:3fb49604f9c2f729b85ba3115852006824e72cab
+
+[full_options]
+    shared=True
+    with_elf=True
+    with_pcre=True
+    bzip2:build_executable=True
+    bzip2:shared=False
+    libelf:shared=False
+    libffi:shared=False
+    libgettext:shared=False
+    libiconv:shared=False
+    pcre:build_pcrecpp=False
+    pcre:build_pcregrep=False
+    pcre:shared=False
+    pcre:with_bzip2=True
+    pcre:with_jit=False
+    pcre:with_unicode_properties=False
+    pcre:with_utf=False
+    pcre:with_zlib=True
+    zlib:minizip=False
+    zlib:shared=False
+
+[recipe_hash]
+    d023771a1eb636e395abfe23a9eb5599
+
+[env]
+

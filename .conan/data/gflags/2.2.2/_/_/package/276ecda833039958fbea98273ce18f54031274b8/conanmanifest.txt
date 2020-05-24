@@ -1,0 +1,7 @@
+1573741893
+conaninfo.txt: 6e8a49927325fd51f31c85c164916c04
+include/gflags/gflags.h: 90dee2019229b6399f467d5ef78207bf
+include/gflags/gflags_completions.h: a13757eb90e49e860174736e966277b3
+include/gflags/gflags_declare.h: db33b2cfea99886bcc82526ae2349ff7
+lib/gflags_nothreads_static.lib: 102f09a1d4c3a43d1e3df9fa89e598cd
+licenses/COPYING.txt: c80d1a3b623f72bb85a4c75b556551df

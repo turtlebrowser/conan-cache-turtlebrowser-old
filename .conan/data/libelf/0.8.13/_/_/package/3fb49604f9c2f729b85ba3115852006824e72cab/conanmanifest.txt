@@ -1,0 +1,18 @@
+1576694210
+conaninfo.txt: d0a065f43bd3c2e7df7648c1f4e0d9cf
+include/gelf.h: a5391493a50d9c42c1f603cadcd1f103
+include/libelf.h: b2dd33c5e31118755713a2782447cc76
+include/libelf/byteswap.h: 2b53181f202799173b26e222a08aa56e
+include/libelf/elf_repl.h: 9a44f687b9a4f1bb03cea6b1bedef156
+include/libelf/errors.h: f1d71a6a02f3474573d1b38bf46b76ae
+include/libelf/ext_types.h: 42a3a8831f795166d8e1ee82638c7af1
+include/libelf/gelf.h: a5391493a50d9c42c1f603cadcd1f103
+include/libelf/libelf.h: b2dd33c5e31118755713a2782447cc76
+include/libelf/nlist.h: 44f7890b2adbc8a0eb52240511cb7e34
+include/libelf/private.h: fec36f9800d14b1c3804e4b5002d40f8
+include/libelf/sys_elf.h: e4ed2d45b63b25d37b0f940756169dfd
+include/libelf/verdef.h: 88940c8e04f8a39dbcf825ac53f3da4e
+include/libelf/verneed.h: 6d1ef824cc3865c130040370f972330b
+include/nlist.h: 44f7890b2adbc8a0eb52240511cb7e34
+lib/elf.lib: 9b5f43c8e5855654a3a3d185b702ba2f
+licenses/COPYING.LIB: 6e29c688d912da12b66b73e32b03d812

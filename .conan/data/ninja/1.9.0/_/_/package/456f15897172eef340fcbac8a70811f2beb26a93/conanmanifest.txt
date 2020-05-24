@@ -1,0 +1,5 @@
+1586956025
+bin/ninja.bootstrap.exe: e85e07fc10bba668dfec33cfd858e573
+bin/ninja.exe: 5cc61f62bf0ff6ff524f480ab38d8682
+conaninfo.txt: 10364116fc278aec35eb3a0656bedb60
+licenses/COPYING: a81586a64ad4e476c791cda7e2f2c52e
